@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋! My name is Eke Ikenna Donald and I'm a DevOps Engineer from Lagos, Nigeria.</h2>
+<h2 align="left">Hi 👋! I'm a DevOps Engineer from Lagos, Nigeria.</h2>
 
 ###
 
 <div align="left">
-  <h3 align="left">Languages and Tools:</h3>
+  <h3 align="left">Technology Stack:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
