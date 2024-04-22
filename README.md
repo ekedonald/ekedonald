@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Eke Donald, a DevOps Engineer from Lagos, Nigeria.</h2>
+<h2 align="left">Hi 👋! I'm Eke Ikenna Donald, a DevOps Engineer from Lagos, Nigeria.</h2>
 
 ###
 
